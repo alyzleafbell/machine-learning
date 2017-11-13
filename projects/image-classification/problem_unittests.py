@@ -4,7 +4,6 @@ import tensorflow as tf
 import random
 from unittest.mock import MagicMock
 
-
 def _print_success_message():
     print('Tests Passed')
 
